@@ -1,8 +1,13 @@
-##Start
+## Library Management System Flowchart
+
+Here is a textual representation of the flowchart for the library management system:
+
+```plaintext
+Start
   ↓
-#Display Menu
+Display Menu
   ↓
-#User Choice
+User Choice
   ├─> Add Book ─> Input Details ─> Update Book List ─> Return to Menu
   │
   ├─> Search Books ─> Input Prefix ─> Loop Through Books ─> Display Matching Books ─> Return to Menu
@@ -35,4 +40,5 @@
   │
   └─> Exit
     ↓
- ##  End
+   End
+
