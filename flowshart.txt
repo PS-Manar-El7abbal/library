@@ -4,7 +4,7 @@
 
 This flowchart provides an overview of the main processes in the library management system:
 
-```plaintext
+
 Start
   ↓
 Display Menu
